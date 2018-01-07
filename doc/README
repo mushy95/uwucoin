@@ -1,4 +1,4 @@
-LearnCoin 0.0 Ant
+uwucoin 0.0 Ant
 Based on smallchange 0.1 ALPHA
 
 Copyright (c) 2009-2012 Bitcoin Developers
@@ -15,7 +15,7 @@ Intro
 -----
 
 
-LearnCoin is a free open source peer-to-peer electronic cash system that is
+uwucoin is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -23,14 +23,14 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 -----
-You need the Qt4 run-time libraries to run LearnCoin-qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run uwucoin-qt. On Debian or Ubuntu:
   sudo apt-get install libqtgui4
 
 Unpack the files into a directory and run:
- bin/32/LearnCoin-qt (GUI, 32-bit)
- bin/32/LearnCoin (headless, 32-bit)
- bin/64/LearnCoin-qt (GUI, 64-bit)
- bin/64/LearnCoin (headless, 64-bit)
+ bin/32/uwucoin-qt (GUI, 32-bit)
+ bin/32/uwucoin (headless, 32-bit)
+ bin/64/uwucoin-qt (GUI, 64-bit)
+ bin/64/uwucoin (headless, 64-bit)
 
 
 See the documentation at the bitcoin wiki:
